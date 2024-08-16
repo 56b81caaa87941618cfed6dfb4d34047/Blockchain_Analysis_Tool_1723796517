@@ -8,7 +8,7 @@ Vue.component("simple_footer_component_1723796520", {
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                            <img id="footer-logo" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Blockchain_Analysis_Tool_1723796517/main/images/e122bb40e12b4bee987984d07fb43806.jpeg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                             ChainSight
                         </a>
                     </div>
@@ -20,6 +20,7 @@ Vue.component("simple_footer_component_1723796520", {
                         <button class="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                             Hello World
                         </button>
+                    </div>
                 </div>
             </div>
         </footer> 
