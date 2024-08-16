@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the image of Jupiter to be static or interactive (e.g., zoomable or clickable with more information)?\", \"option1\": \"Static image\", \"option2\": \"Interactive image\"}, {\"question 2\": \"Should the image be sourced from a specific database or are general public domain images acceptable?\", \"option1\": \"Specific database (please specify)\", \"option2\": \"General public domain images are acceptable\"}], \"input_token_count\": 274, \"output_token_count\": 101, \"time_taken\": \"0:00:02.957431\"}",
+        "message_id": "guest16082024082739",
+        "timestamp": "16082024082746",
+        "component_file_name": "simple_footer_component_1723796520",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add an image of Jupiter to your project.",
         "message_id": "guest16082024082739",
